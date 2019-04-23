@@ -1,8 +1,11 @@
 baseURL = "http://jacsaddict.github.io"
 languageCode = "en-us"
 title = "jacsaddict"
-theme = "purehugo"
+theme = "tale"
 Paginate = 10
 
+[Author]
+    name = "jacsaddict"
+    
 [params]
   githubName = "jacsaddict"
