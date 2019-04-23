@@ -1,0 +1,8 @@
+baseURL = "http://jacsaddict.github.io"
+languageCode = "en-us"
+title = "jacsaddict"
+theme = "purehugo"
+Paginate = 10
+
+[params]
+  githubName = "jacsaddict"
