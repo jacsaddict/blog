@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "jacsaddict"
 theme = "tale"
 Paginate = 10
-
+disqusShortname = "jacsaddict-github"
+googleAnalytics = "UA-130193510-3"
 [Author]
     name = "jacsaddict"
     
